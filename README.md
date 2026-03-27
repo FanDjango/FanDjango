@@ -1,1 +1,3 @@
-![](https://github-readme-stats.vercel.app/api?username=FanDjango&show_icons=true&theme=default#gh-light-mode-only)
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)

@@ -1,5 +1,9 @@
-## Servus 👋 ![](https://komarev.com/ghpvc/?username=fandjango&color=lightgrey)
+## Servus / Greetings / Namaskar / 您好 👋 ![](https://komarev.com/ghpvc/?username=fandjango&color=lightgrey)
 
+**Who I am**
+Owner, AnSyNova GmbH
+Developer of z/OS Mainframe Software Products: 2cIP, 2cSNA, 2cOPS and 2cUTC
+Collaborator/Author .NET/c# FluentFTP, FluentFTP.GnuTLS
 
 **GitHub stats**
 

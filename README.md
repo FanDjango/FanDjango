@@ -2,8 +2,6 @@
 
 **Who I am**
 
-- *Owner*, AnSyNova GmbH
-- *Developer* of IBM z/OS Mainframe Software Products: 2cIP, 2cSNA, 2cOPS and [2cUTC](https://2cutc.ansynova.eu/)
 - *Collaborator/Author* .NET/c# [FluentFTP](https://github.com/robinrodricks/FluentFTP), [FluentFTP.GnuTLS](https://github.com/robinrodricks/FluentFTP.GnuTLS)
 - *Collaborator/Author* cpp [TPFanControl2](https://github.com/FanDjango/TPFanCtrl2)
 

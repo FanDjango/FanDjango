@@ -1,4 +1,4 @@
-## Servus / Greetings / Namaskar / 您好 ![](https://komarev.com/ghpvc/?username=fandjango&color=lightgrey)
+## Servus / Greetings / Namaskar / 您好
 
 **Who I am**
 
@@ -8,3 +8,5 @@
 **GitHub stats**
 
 [![FanDjango's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=FanDjango&count_private=true&include_all_commits=true)](https://github.com/FanDjango)
+
+ ![](https://komarev.com/ghpvc/?username=fandjango&color=lightgrey)

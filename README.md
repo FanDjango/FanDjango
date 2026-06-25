@@ -1,4 +1,4 @@
-## Servus / Greetings / Namaskar / 您好 👋 ![](https://komarev.com/ghpvc/?username=fandjango&color=lightgrey)
+## Servus / Greetings / Namaskar / 您好 ![](https://komarev.com/ghpvc/?username=fandjango&color=lightgrey)
 
 **Who I am**
 

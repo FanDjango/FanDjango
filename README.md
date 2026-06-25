@@ -1,6 +1,6 @@
 ## Servus / Greetings / Namaskar / 您好
 
-**Who I am**
+**Whosit?**
 
 - *Collaborator/Author* .NET/c# [FluentFTP](https://github.com/robinrodricks/FluentFTP), [FluentFTP.GnuTLS](https://github.com/robinrodricks/FluentFTP.GnuTLS)
 - *Collaborator/Author* cpp [TPFanControl2](https://github.com/FanDjango/TPFanCtrl2)

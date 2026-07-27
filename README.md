@@ -9,4 +9,4 @@
 
 [![FanDjango's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=FanDjango&count_private=true&include_all_commits=true)](https://github.com/FanDjango)
 
- ![](https://komarev.com/ghpvc/?username=fandjango&color=lightgrey)
+ ![](https://komarev.com/ghpvc/?username=fandjango&abbreviated=true&color=lightgrey)

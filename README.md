@@ -2,17 +2,17 @@
 
 **Whosit?**
 
-- *Collaborator/Author* .NET/c# [FluentFTP](https://github.com/robinrodricks/FluentFTP), [FluentFTP.GnuTLS](https://github.com/robinrodricks/FluentFTP.GnuTLS)
-- *Collaborator* cpp [TPFanControl2](https://github.com/Shuzhengz/TPFanCtrl2)
-- *Forker/Author* cpp [TPFanControl2 Bleeding Edge](https://github.com/FanDjango/TPFanCtrl2)
-- *Collaborator* rust [Yamato](https://github.com/mackid1993/Yamato) 
+- *Collaborator/Author* **.NET/c**_ [FluentFTP](https://github.com/robinrodricks/FluentFTP), [FluentFTP.GnuTLS](https://github.com/robinrodricks/FluentFTP.GnuTLS)
+- *Collaborator* **cpp** [TPFanControl2](https://github.com/Shuzhengz/TPFanCtrl2)
+- *Forker/Author* **cpp** [TPFanControl2 Bleeding Edge](https://github.com/FanDjango/TPFanCtrl2)
+- *Collaborator* **rust** [Yamato](https://github.com/mackid1993/Yamato) 
 
 **Whatsit?**
 
-- **FluentFTP** Nuget .NET c# Library for **FTP**
-- **FluentFTP.GnuTLS** Nuget .NET c# Library for an alternative SSL lib (not only for FluentFTP)
-- **TPFanControl2** Tame your Lenovo laptop cooling fans
-- **Yamato** A modern approach to taming your Lenovo laptop fans
+- **FluentFTP** Nuget .NET/c# **lib** for **FTP**
+- **FluentFTP.GnuTLS** Nuget .NET/c# **lib** for an alternative SSL lib (not only for FluentFTP)
+- **TPFanControl2** **app** Tame your Lenovo laptop cooling fans
+- **Yamato** **app** A modern approach to taming your Lenovo laptop cooling fans
 
 **GitHub stats**
 

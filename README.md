@@ -7,6 +7,13 @@
 - *Forker/Author* cpp [TPFanControl2 Bleeding Edge](https://github.com/FanDjango/TPFanCtrl2)
 - *Collaborator* rust [Yamato](https://github.com/mackid1993/Yamato) 
 
+**Whatsit?**
+
+- **FluentFTP** Nuget .NET c# Library for **FTP**
+- **FluentFTP.GnuTLS** Nuget .NET c# Library for an alternative SSL lib (not only for FluentFTP)
+- **TPFancontrol2** Tame your Lenovo laptop cooling fans
+- **Yamato** A modern approach to taming your Lenovo laptop fans
+
 **GitHub stats**
 
 [![FanDjango's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=FanDjango&count_private=true&include_all_commits=true)](https://github.com/FanDjango)

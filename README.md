@@ -3,7 +3,9 @@
 **Whosit?**
 
 - *Collaborator/Author* .NET/c# [FluentFTP](https://github.com/robinrodricks/FluentFTP), [FluentFTP.GnuTLS](https://github.com/robinrodricks/FluentFTP.GnuTLS)
-- *Collaborator/Author* cpp [TPFanControl2](https://github.com/FanDjango/TPFanCtrl2)
+- *Collaborator* cpp [TPFanControl2](https://github.com/Shuzhengz/TPFanCtrl2)
+- *Forker/Author* cpp [TPFanControl2 Bleeding Edge](https://github.com/FanDjango/TPFanCtrl2)
+- *Collaborator* rust [Yamato](https://github.com/mackid1993/Yamato) 
 
 **GitHub stats**
 

@@ -2,7 +2,7 @@
 
 **Whosit?**
 
-- *Collaborator/Author* **.NET/c**_ [FluentFTP](https://github.com/robinrodricks/FluentFTP), [FluentFTP.GnuTLS](https://github.com/robinrodricks/FluentFTP.GnuTLS)
+- *Collaborator/Author* **.NET/c#**_ [FluentFTP](https://github.com/robinrodricks/FluentFTP), [FluentFTP.GnuTLS](https://github.com/robinrodricks/FluentFTP.GnuTLS)
 - *Forker/Author* **cpp** [TPFanControl2 Bleeding Edge](https://github.com/FanDjango/TPFanCtrl2)
 
 **Whatsit?**

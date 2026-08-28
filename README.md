@@ -3,7 +3,7 @@
 **Whosit?**
 
 - *Working on* **.NET/c#**_ [FluentFTP](https://github.com/robinrodricks/FluentFTP), [FluentFTP.GnuTLS](https://github.com/robinrodricks/FluentFTP.GnuTLS)
-- *Working on* **cpp** [TPFanControl2 Bleeding Edge](https://github.com/FanDjango/TPFanCtrl2)
+- *Archived* **cpp** [TPFanControl2 Bleeding Edge](https://github.com/FanDjango/TPFanCtrl2)
 
 **Whatsit?**
 

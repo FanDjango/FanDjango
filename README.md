@@ -13,6 +13,6 @@
 
 **GitHub stats**
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=fandjango)](https://github.com/stats-organization/github-stats-extended)
 
  ![](https://komarev.com/ghpvc/?username=fandjango&style=plastic&base=1768&label=Visitors&abbreviated=true&color=lightgrey)
